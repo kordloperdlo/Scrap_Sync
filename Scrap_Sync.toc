@@ -1,0 +1,14 @@
+## Interface: 50405
+## Title: Scrap |cff00ff00Sync|r
+## Title-ruRU: Scrap |cff00ff00Синхронизация|r
+## Notes: Synchronizes Scrap settings between characters
+## Notes-ruRU: Синхронизирует настройки Scrap между персонажами
+## Author: kordloperdlo (модификация), Оригинальный автор Scrap: Jaliborc (João Cardoso)
+## Version: 1.1
+## Dependencies: Scrap
+## OptionalDeps: Ace3, LibDataBroker-1.1, LibDBIcon-1.0
+## SavedVariables: Scrap_SyncDB, Scrap_SyncDB_Internal
+
+embeds.xml
+localization.lua
+core.lua
