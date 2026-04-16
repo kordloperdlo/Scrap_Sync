@@ -1,9 +1,0 @@
-<Ui xmlns="http://www.blizzard.com">
-    <Binding name="SCRAP_SYNC_TOGGLE" header="SCRAP_SYNC">
-        if ScrapSync_ToggleBinding then
-            ScrapSync_ToggleBinding()
-        else
-            DEFAULT_CHAT_FRAME:AddMessage("|cffffaa00[Scrap Sync]|r Функция биндинга ещё не загружена.")
-        end
-    </Binding>
-</Ui>
